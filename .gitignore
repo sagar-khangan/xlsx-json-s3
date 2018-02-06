@@ -1,0 +1,5 @@
+file.xlsx
+data.json
+.coverage
+env/
+htmlcov/
